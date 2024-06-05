@@ -9,7 +9,7 @@ Bulk Data Extraction: Using Power BI’s capabilities to import large datasets f
 
 Data Cleaning
 Data Transformation: Cleaning and preparing datasets to ensure accuracy and reliability.
-Error Handling: Identifying and rectifying inconsistencies and errors in the data.
+Identifying and rectifying inconsistencies and errors in the data.
 
 Data Modeling
 DAX (Data Analysis Expressions): Creating complex calculated columns and measures to enhance data analysis.
