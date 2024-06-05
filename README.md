@@ -1,5 +1,5 @@
 Welcome to my Power BI project repository! 
-This project showcases my expertise in using Power BI for data analysis and visualization. The data-sets sets "Bank-Owned ATM locations in New York State" and "Annual Population Estimates for New York State and Counties" are sourced from the data.gov website.  The primary objective of this project is to demonstrate advanced skills in data mining, cleaning, modeling, analysis, and visualization using Power BI.
+This project showcases my expertise in using Power BI for data analysis and visualization. The data-sets sets "Bank-Owned ATM locations in New York State" and "Annual Population Estimates for New York State and Counties" are sourced from the data.gov website.  
 
 Skills Demonstrated
 
